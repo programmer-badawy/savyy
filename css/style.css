@@ -10,7 +10,7 @@
 }
 body{
     font-family: sans-serif;
-    height: 2000px;
+    
 }
 body::selection{
     background-color:var(--transparent-color) ;
@@ -277,4 +277,5 @@ main .img img{
     }
     
 }
+
 /* End main */
